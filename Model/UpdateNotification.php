@@ -7,7 +7,7 @@
 namespace Aimes\QualityPatchesUi\Model;
 
 use Aimes\Substratum\Model\ComposerVersion;
-use Magento\Framework\Message\ManagerInterface;;
+use Magento\Framework\Message\ManagerInterface;
 
 class UpdateNotification
 {
